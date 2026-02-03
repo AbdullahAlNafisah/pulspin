@@ -1,6 +1,7 @@
-# Pulse Spin (PulSpin)
+# Pulse Spin (Pulspin)
 
-Pulspin system is an integrated hardware and digital control platform designed for NMR and magnetic field analysis.
+<!-- System Definition -->
+This is an integrated hardware and digital control platform for low-field NMR and magnetic field analysis.
 
 ## System Heirarchy
 
