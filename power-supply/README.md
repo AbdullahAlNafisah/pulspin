@@ -18,6 +18,8 @@ The Halbach magnet is passive (no power). Power is needed for gradient current s
 
 Total = 250W + 150W + 50W = 450W
 
-I ordered this with 750W rating:
+I ordered this with 650W rating:
 
-https://www.amazon.sa/-/en/dp/B0G3QL5QZ2?smid=A2L7XYQU5XTS3Y&ref_=chk_typ_imgToDp&th=1
+https://www.amazon.sa/-/en/dp/B0CJRXX5WT?ref=ppx_yo2ov_dt_b_fed_asin_title&th=1
+
+![alt text](image.png)
